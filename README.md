@@ -1,4 +1,4 @@
-# biagio-arobba-skills
+# Biagio Arobba Claude Skills
 
 [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?style=for-the-badge)](https://github.com/barobba/biagio-arobba-claude-skills)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](https://github.com/barobba/biagio-arobba-claude-skills/blob/main/LICENSE)

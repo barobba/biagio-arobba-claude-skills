@@ -1,5 +1,9 @@
 # biagio-arobba-skills
 
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?style=for-the-badge)](https://github.com/barobba/biagio-arobba-claude-skills)
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](https://github.com/barobba/biagio-arobba-claude-skills/blob/main/LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-Plugin-purple.svg?style=for-the-badge)](https://github.com/barobba/biagio-arobba-claude-skills)
+
 A public marketplace of Claude skills for deep knowledge work and session continuity.
 
 ## Install

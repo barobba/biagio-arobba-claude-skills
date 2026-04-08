@@ -7,7 +7,7 @@
   },
   "metadata": {
     "description": "A collection of Claude skills for deep knowledge work and session continuity.",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "pluginRoot": "./plugins"
   },
   "plugins": [
@@ -15,7 +15,7 @@
       "name": "ai-session-handoff",
       "source": "ai-session-handoff",
       "description": "Distills a conversation into a full-fidelity, AI-readable meaning transfer document — designed to hand off complete session understanding to a new AI session.",
-      "version": "1.0.0",
+      "version": "0.1.0",
       "author": {
         "name": "Biagio Arobba",
         "email": "biagio@synergetic.solutions"

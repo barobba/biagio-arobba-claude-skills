@@ -40,10 +40,6 @@ If your session was a task log or a series of one-off questions, this skill isn'
 
 ---
 
-## Contributing
-
-Have a skill to add? Open a pull request with your skill folder under `plugins/` following the existing structure.
-
 ## License
 
 MIT

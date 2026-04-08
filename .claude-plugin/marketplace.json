@@ -20,8 +20,11 @@
         "name": "Biagio Arobba",
         "email": "biagio@synergetic.solutions"
       },
+      "homepage": "https://github.com/barobba/biagio-arobba-claude-skills",
+      "repository": "https://github.com/barobba/biagio-arobba-claude-skills",
+      "license": "MIT",
       "category": "productivity",
-      "keywords": ["session", "context", "handoff", "meaning", "continuity", "ai-to-ai"]
+      "keywords": ["claude-skill", "claude-code", "knowledge-work", "session-continuity", "ai-handoff", "context-transfer", "meaning-transfer"]
     }
   ]
 }

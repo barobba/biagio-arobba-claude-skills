@@ -7,7 +7,7 @@ A public marketplace of Claude skills for deep knowledge work and session contin
 In Claude Code, run:
 
 ```
-/plugin marketplace add barobba/biagio-arobba-skills
+/plugin marketplace add barobba/biagio-arobba-claude-skills
 ```
 
 ---

@@ -1,5 +1,13 @@
 {
   "name": "ai-session-handoff",
   "description": "Distills a conversation into a full-fidelity, AI-readable meaning transfer document — designed to hand off complete session understanding to a new AI session.",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "author": {
+    "name": "Biagio Arobba",
+    "email": "biagio@synergetic.solutions"
+  },
+  "homepage": "https://github.com/barobba/biagio-arobba-claude-skills",
+  "repository": "https://github.com/barobba/biagio-arobba-claude-skills",
+  "license": "MIT",
+  "keywords": ["claude-skill", "claude-code", "knowledge-work", "session-continuity", "ai-handoff", "context-transfer", "meaning-transfer"]
 }

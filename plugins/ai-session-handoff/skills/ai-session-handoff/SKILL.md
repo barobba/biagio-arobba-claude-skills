@@ -10,7 +10,7 @@ description: >
 
 Produce a self-contained **meaning transfer document** from the current conversation. The output is a markdown file intended to be dropped into a new AI chat session, giving a cold model full-fidelity access to the conceptual understanding, vocabulary, framing, and dialectical history built in this session.
 
-**The primary consumer is an AI, not a human.** Optimize for completeness, precision, and cold-start effectiveness — not readability or brevity.
+**The consumer is an AI, not a human.** Optimize for completeness, precision, and cold-start effectiveness — not readability or brevity.
 
 ---
 
@@ -53,7 +53,7 @@ At the end of the document, write a **Priming Prompt** — a single, self-contai
 
 ## Output Format
 
-Save the document as a markdown file named `session-handoff.md`. Save it to the user's working directory or outputs folder if one is available; otherwise save it alongside any other files in the current session context.
+Before producing the document, ask the user: "Where would you like to save the session handoff? Please provide a folder path or confirm a location." Save the document as a markdown file named `session-handoff.md` in the location they specify.
 
 Use this structure:
 
